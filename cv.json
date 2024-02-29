@@ -2,7 +2,7 @@
     "basics": {
       "name": "Cristian Yáñez",
       "label": "Analista Programador",
-      "image": "https://avatars.cloudflare.steamstatic.com/5cd1a2ebe7051f0993feb95047837ef0deffba66_full.jpg",
+      "image": "/me.webp",
       "email": "john@gmail.com",
       "phone": "(912) 555-4321",
       "url": "https://johndoe.com",
@@ -15,10 +15,16 @@
         "region": "California"
       },
       "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+        "network": "GitHub",
+        "username": "M1th0s",
+        "url": "https://github.com/M1th0s"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "cyanezgallardo",
+        "url": "https://www.linkedin.com/in/cyanezgallardo/"
+      }
+    ]
     },
     "work": [{
       "name": "Company",
