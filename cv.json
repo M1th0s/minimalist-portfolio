@@ -5,8 +5,8 @@
       "image": "/me.webp",
       "email": "john@gmail.com",
       "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "url": "https://",
+      "summary": "A summary of Cristian Yáñez…",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -27,16 +27,50 @@
     ]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Telsur Chile",
+      "position":"Ingeniero de proyecto",
+      "url": "https://www.telsur.cl/",
+      "startDate": "2021-04-01",
+      "endDate": "2021-10-01",
+      "summary": "Lideré la realización de un sistema de reportes web.",
       "highlights": [
         "Started the company"
       ]
-    }],
+    },
+      {
+        "name": "Comercializadora Cugat",
+        "position":"Técnico de soporte de TI",
+        "url": "https://cugat.cl/",
+        "startDate": "2019-03-01",
+        "endDate": "2019-12-01",
+        "summary": "Velaba por el correcto funcionamiento de los equipos, carga de productos y versiones del ERP de la empresa.",
+        "highlights": [
+          "Started the company"
+        ]
+        },
+      {
+        "name": "Ferosor Agrícola",
+        "position":"Técnico de soporte de TI",
+        "url": "https://ferosor.cl/",
+        "startDate": "2016-10-11",
+        "endDate": "2017-12-31",
+        "summary": "Administraba los usuarios y roles de la empresa. Generaba reportes semanales y mensuales de las distintas áreas de trabajo.",
+        "highlights": [
+          "Started the company"
+        ]
+        },
+      {
+        "name": "Clínica Alemana",
+        "position":"Técnico de soporte de TI",
+        "url": "https://www.clinicaalemanaosorno.cl/",
+        "startDate": "2016-07-18",
+        "endDate": "2016-09-30",
+        "summary": "Administracion e implementacion de los roles, horarios y perfiles de la ficha clinica de los doctores.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
