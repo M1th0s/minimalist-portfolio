@@ -208,13 +208,27 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "mars.codes",
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
       "highlights": [
-        "Won award at AIHacks 2016"
+        
       ],
-      "url": "https://project.com/"
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "mars.codes",
+      "description": "Historia interactiva con retos de programación para viajar a Marte,Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "mars.codes",
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        
+      ],
+      "url": "https://mars.codes"
     }]
   }
