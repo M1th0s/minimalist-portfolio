@@ -1,0 +1,60 @@
+---
+import { basics } from 'cv.json';
+const { profiles } = basics;
+
+
+---
+
+<footer>
+Pulsa <kbd>Cmd</kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
+</footer>
+
+<ninja-keys placeholder="Buscar comando" hideBreadcrumbs> </ninja-keys>
+
+<script>
+    import "ninja-keys"
+
+    const ninja = document.querySelector("ninja-keys")
+
+    if (ninja != null) 
+    {
+        ninja.data = 
+        [ 
+            {
+            id: 'print',
+            title: '🖨️ Imprimir',
+            hotkey: 'ctrl+P',
+            section: 'Acciones',
+            handler: () => {
+                window.print()
+            },
+            },
+        ]   
+    }
+</script>
+
+<style>
+    @media print {
+        ninja-keys {
+            display: none !important;
+        }
+    }
+
+    footer{
+        background: #fdfdfd;
+        border-top: 1px solid #eee;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        padding-block: 8px;
+        text-align: center;
+        font-size: 0.85rem;
+    }
+
+    kbd {
+        background: #eee;
+        border-radius: 4px;
+        padding: 2px 4px;
+        font-size: 12px;
+    }
+</style>
