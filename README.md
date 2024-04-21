@@ -1,5 +1,5 @@
 Schema deL JSON de CV:
-https://jsonresume.org/schema/
+[ jsonresume.org](https://jsonresume.org/schema/)
 
 Basado en el diseño de:
 [ Bartosz Jarocki](https://github.com/BartoszJarocki/cv)
