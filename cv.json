@@ -83,12 +83,12 @@
       ]
     }],
     "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
+      "institution": "Universidad Tecnológica de Chile INACAP",
+      "url": "https://portales.inacap.cl/",
+      "area": "Analista Programador",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "startDate": "2013-03-01",
+      "endDate": "2016-11-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
